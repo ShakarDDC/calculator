@@ -1,0 +1,41 @@
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\bin\Debug\calc2.exe
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\bin\Debug\calc2.pdb
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.csprojAssemblyReference.cache
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.Form1.resources
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.Properties.Resources.resources
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.csproj.GenerateResource.cache
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.csproj.CoreCompileInputs.cache
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.exe
+C:\Users\yerkk\Рабочий стол\Univer\Second semester (First year)\Object Oriented Programming\Shakar project\calc2\calc2\obj\Debug\calc2.pdb
+C:\Users\Shakar\Desktop\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Users\Shakar\Desktop\calc2\calc2\bin\Debug\calc2.exe
+C:\Users\Shakar\Desktop\calc2\calc2\bin\Debug\calc2.pdb
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.csprojAssemblyReference.cache
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.Form1.resources
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.Properties.Resources.resources
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.csproj.GenerateResource.cache
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.exe
+C:\Users\Shakar\Desktop\calc2\calc2\obj\Debug\calc2.pdb
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\bin\Debug\calc2.exe
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\bin\Debug\calc2.pdb
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.csprojAssemblyReference.cache
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.Form1.resources
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.Properties.Resources.resources
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.csproj.GenerateResource.cache
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.exe
+C:\Users\Shakar\Desktop\projectr 12\calc2\calc2\obj\Debug\calc2.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\bin\Debug\calc2.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\bin\Debug\calc2.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.csproj.AssemblyReference.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.Form1.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.Properties.Resources.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.csproj.GenerateResource.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\calc2\calc2\obj\Debug\calc2.pdb
